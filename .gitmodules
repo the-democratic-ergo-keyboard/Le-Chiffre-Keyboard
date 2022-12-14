@@ -1,3 +1,0 @@
-[submodule "KiCad/bluetooth_pcb/le_chiff_ble"]
-	path = KiCad/bluetooth_pcb/le_chiff_ble
-	url = git@github.com:MangoIV/le_chiff_ble.git
