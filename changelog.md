@@ -14,3 +14,15 @@ fixed schematic
 redid the switch matrix to use less cols to support the single shift register, and maximized gpio
 added jlcpcb pcba support
 other general cleanup...
+
+
+Dasky: 2022-12-22
+-------------------------------
+add led power selection jumper raw/vcc
+add led power switch circuit
+added per key rgb
+replaced ws2812b underglow with sk6803 mini-e
+rotated all switches
+rerouted pcb
+add .gitignore
+clean up backup files
