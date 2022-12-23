@@ -26,3 +26,10 @@ rotated all switches
 rerouted pcb
 add .gitignore
 clean up backup files
+
+
+Mabroum: 2022-12-23
+-------------------------------
+Add Splay
+Moved thumb tucky
+Add auto render bot
