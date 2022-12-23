@@ -7,6 +7,10 @@ Firmware for the keyboard is available here: https://github.com/qmk/qmk_firmware
 
 This project is open sourced with the GPL-3.0 license. The license conditionally allows for commercial use, modification, distribution, patent, and private use. Please take note of the license conditions before utilizing this project. 
 
+
+## PCB
+![render](images/Le%20Chiffre%20v2/LeChiffre-top.png)
+
 ## Bill of materials
 You can copy this table when ordering PCBs. 
 | Item # | *Ref Des                                                                                                                                                             | *Qty | *Mfg Part #        | Description\Value | *Package         |
