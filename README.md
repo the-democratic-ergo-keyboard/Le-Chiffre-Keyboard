@@ -10,6 +10,7 @@ This project is open sourced with the GPL-3.0 license. The license conditionally
 
 ## PCB
 ![render](images/Le%20Chiffre%20v2/LeChiffre-top.png)
+![render](images/Le%20Chiffre%20v2/LeChiffre-bottom.png)
 
 # Fab files
 If you just want to order PCBs, just grab these files and send them to your fab house. The pos and bom for jlcpcb are already included as well
