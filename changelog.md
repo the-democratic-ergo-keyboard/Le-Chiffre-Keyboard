@@ -38,3 +38,10 @@ Bomtarnes: 2023-03-04
 -------------------------------
 Add solenoid circuitry and forehead to place it
 Rounded corners on edgecuts in fusion360
+
+bom's bom
+https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/694106301002/5047522 - barrel jack x1
+https://www.digikey.com/en/products/detail/onsemi/1N4001/976982 - flyback diodes x2
+https://www.digikey.com/en/products/detail/DIP05-1A72-11L/374-1051-ND/2171028 - reed relay x1
+https://www.digikey.com/en/products/detail/adafruit-industries-llc/412/5819056 - solenoid x1
+https://www.digikey.com/en/products/detail/stmicroelectronics/TIP120/603564 - npn darlington transistor x1
