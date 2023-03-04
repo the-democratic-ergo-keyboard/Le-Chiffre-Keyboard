@@ -33,3 +33,8 @@ Mabroum: 2022-12-23
 Add Splay
 Moved thumb tucky
 Add auto render bot
+
+Bomtarnes: 2023-03-04
+-------------------------------
+Add solenoid circuitry and forehead to place it
+Rounded corners on edgecuts in fusion360
