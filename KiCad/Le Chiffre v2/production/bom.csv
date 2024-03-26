@@ -1,15 +1,15 @@
 Designator,Footprint,Quantity,Value,LCSC Part #
 "D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D3, D30, D31, D32, D33, D34, D35, D36, D37, D4, D5, D6, D7, D8, D9",D_SOD123,37,1N4148,C909967
-"D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65, D66, D67, D68, D69, D70, D71, D72, D73, D74, D75, D76, D77, D78, D79, D80, D81, D82, D83, D84",SK6803-MINI-E,47,SK6803_MINI-E,
+"D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65, D66, D67, D68, D69, D70, D71, D72, D73, D74, D75, D76, D77, D78, D79, D80, D81, D82, D83, D84",SK6803-MINI-E,47,SK6803_MINI-E,C5242955
+H1,TPSensorModule,1,MountingHole,
+J1,PinHeader_1x06_P2.54mm_Vertical,1,Conn_01x06_Socket,
 J2,PinSocket_1x04_P2.54mm_Vertical,1,Conn_01x04_Female,
+J3,vik-keyboard-connector-horizontal,1,~,C479750
 JP1,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm,1,SolderJumper_3_Open,
-Q1,SOT-23_Handsoldering,1,AO3401A,
-Q2,SOT-23_Handsoldering,1,AO3400A,
-"R1, R4",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,100K,
-"R2, R3",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,1K,
+JP2,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm,1,Jumper_3_Open,
 "R7, R8",R_0805,2,4.7k,C269746
 SW1,SW_SPST_TL3342,1,SW_Push,
 "SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW17, SW18, SW19, SW2, SW20, SW21, SW22, SW23, SW24, SW25, SW26, SW27, SW28, SW29, SW3, SW30, SW31, SW32, SW33, SW34, SW35, SW37, SW38, SW39, SW4, SW5, SW6, SW7, SW8, SW9",MX-Alps-Choc-1U-NoLED,37,SW_Push,
 SW36,RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles,1,Rotary_Encoder_Switch,
-U1,elite-nano-combo-controller,1,elite-nano-combo-controller,
+U1,pro-micro-controller,1,pro-micro-controller,
 U2,SOIC-16_3.9x9.9mm_P1.27mm,1,SN74HC595,C94270
